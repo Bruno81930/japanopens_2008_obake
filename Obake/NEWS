@@ -1,0 +1,9 @@
+[0.4.0]
+  * Supported new communication framework.
+
+  * Supported player type analysis by coach agent.
+
+  * Added coach.conf
+
+  * Fixed defect in the change view action when player search the
+    ball.
